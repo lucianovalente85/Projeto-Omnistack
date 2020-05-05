@@ -95,4 +95,4 @@ Esse projeto é licensiado pela MIT License - Veja a página da [licença](https
 
 ----------
 
-Feito com ♥ by Luciano Valente 👋 
+Feito por Luciano Valente. 
