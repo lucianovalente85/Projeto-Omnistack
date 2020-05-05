@@ -55,7 +55,6 @@ O Be The Hero é um projeto para que ONGs possam cadastrar casos em que necessit
 ### Instalação - Backend
 Clone o projeto em seu computador. Para instalar as dependências e executar o **Servidor** (modo desenvolvimento) execute:
 ```bash
-cd aulas
 cd backend
 npm install
 npm start
@@ -64,7 +63,6 @@ npm start
 ### Instalação - Frontend (WEB)
 Para iniciar o **Frontend** do React utilize os comandos:
 ```bash
-cd aulas
 cd frontend
 npm install
 npm start
@@ -77,7 +75,6 @@ Para ver a aplicação mobile com o React Native, primeiro é necessário coloca
 ```bash
 # NÃO é preciso executar a linha de baixo caso ja tenha o Expo (CLI) instalado
 yarn global add install expo-cli
-cd aulas
 cd mobile
 npm install
 npm start
